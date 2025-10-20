@@ -1,5 +1,6 @@
 # Emotion-Detection-DistilBERT
-Trained a DistilBERT model to classify text into 6 basic emotions with 92.65% test accuracy. Integrated Spotify API to recommend mood-based songs.
+Trained a DistilBERT model to classify text into 6 basic emotions with 92.65% test accuracy. 
+
 ## Dataset
 - dataset named emotion on hugging face (dair-ai/emotion)
 - 16k rows for training
